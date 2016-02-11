@@ -1,3 +1,8 @@
-# write a line of code that multiplies 3 * 5 and prints the result to the terminal
+# write a line of code that multiplies 7 * 2 and prints the result to the terminal
 
-puts 3 * 5
+def hwmath
+  7 * 2
+end
+
+puts hwmath
+
